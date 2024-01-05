@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.restorani-lista {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+    margin: 20px auto;
+    
+}
+
+.restorani-lista li {
+    margin-bottom: 10px;
+}
+
+.restorani-lista a {
+    text-decoration: none;
+    color: #373939; /* Boja linka */
+    font-weight: bold;
+}
+
+.restorani-lista a:hover {
+    color: rgb(162, 153, 58); /* Boja linka prilikom hovera */
+}
+
+h1{
+    text-align: center;
+}
+

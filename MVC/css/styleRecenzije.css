@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.restoran-detalji {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.recenzije-lista {
+    list-style: none;
+    padding: 0;
+}
+
+.recenzije-lista li {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #ccc; 
+    padding-bottom: 10px;
+}
+
+.recenzije-lista li:last-child {
+    border-bottom: none;
+}
